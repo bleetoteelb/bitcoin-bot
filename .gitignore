@@ -1,0 +1,19 @@
+backdata/**
+config.py
+log**
+*.log
+result
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
